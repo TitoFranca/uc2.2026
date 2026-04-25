@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;  
+}
+
+.cabecalho {
+    background-color: blanchedalmond;
+    padding: 10px 0px;
+    width: 940px;
+
+}
+
+.caixa {
+    width: 940px;
+    position: relative;
+    margin:auto;
+    
+}
+
+.logo {
+    padding-left: 20px;
+
+}
+
+.hmenu {
+    position: absolute;
+    top: 55px;
+    right: 0px;
+
+}

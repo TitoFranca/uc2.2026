@@ -32,3 +32,25 @@
     right: 0px;
 
 }
+
+.hmenu ul li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+.hmenu ul li a {
+    text-decoration: none;
+    color: rgb(66, 8, 202);
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.hmenu ul li a:hover {
+    color: rgb(224, 134, 30);
+    border-bottom: 1px solid rgb(224,134,30);
+}   
+
+.conteudo-principal, .rodape-principal{
+    width: 940px;
+}

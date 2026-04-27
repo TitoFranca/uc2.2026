@@ -1,4 +1,3 @@
-
 .conteudo-principal {
     width: 940px
 }
@@ -15,13 +14,13 @@
 
 .conteudo-secao {
     padding: 10px 0px;
-    
+    width: 940px
 }
 
 .conteudo-secao p {
     padding: 5px 0 5px 0;
     text-align: justify;
-    
+    width: 940px
 }
 
 .cabecalho-secao {

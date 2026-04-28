@@ -6,3 +6,26 @@
 .youtube-sobrenos{
     padding: 10px;
 }
+
+.video-sobrenos{
+    padding: 10px;
+    width: 800px;
+}
+
+.video-sobrenos videos{
+    width: 100%
+}
+
+.mapa-sobrenos iframe {
+    border: 10px solid #ff00c8;
+    border-radius: 4px;
+}
+
+.audio-sobrenos{
+    width: 100%;
+    border: 1px solid #0fccda
+    
+
+}
+    
+
